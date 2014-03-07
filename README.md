@@ -1,10 +1,6 @@
-#置顶  
-[IntelliJ IDEA 13 key](https://sskaje.me/sskaje/keygen/)  
-先点取消后点确定(感谢 HLOY SKY5)  
+#IntelliJ-IDEA-F2E
   
-#IntelliJ-IDEA-F2E  
-  
-**[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStrom](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**  
+**[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStorm](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**  
   
 常规文本编辑器之于IDE(集成开发环境), 好比 Markdown 之于 HTML  
 Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML  
@@ -37,7 +33,8 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
   
   
 ##注册  
-在群共享里有了.  
+在群共享里有jar包.
+下载后运行 java -jar IntelliJIDEAKeyGen.jar
 所有大版本序列号都是通用的  
 等你脚的 IntelliJ IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学  
   
@@ -105,7 +102,6 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
   
 ###基础设置  
 * [常用快捷键](http://note.youdao.com/share/?id=973d61880d78c34797a978afc5bc8846&type=note)  
-* [WebStorm 入门指南](http://book.36ria.com/webstorm/)  
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)  
 * [PHP 支持](http://bigc.at/intellij-idea-php.orz)  
 * [配置 Project](http://bigc.at/intellij-idea-project.orz)  
@@ -119,7 +115,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [LESS -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*  
 * [Intellij IDEA中使用Ant进行前端构建](http://www.cssha.com/intellij-idea-ant)  
 * [Intellij IDEA 视频专讲](http://www.youmeek.com/category/software-system/my-intellij-idea/)  
-* [PhoneGap 3.0 与 IntelliJ IDEA 环境配置教程](http://bigc.at/phonegap-3-intellij-idea.orz)  
+* [如何在 IntelliJ IDEA 里配置 PhoneGap 3.3](http://bigc.at/phonegap-with-intellij-idea.orz)  
   
 ###技巧  
   
@@ -145,7 +141,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * SVN 1.8 的支持要到13版本才行 [IDEA-94942](http://youtrack.jetbrains.com/issue/IDEA-94942)  
 * 如果通过FTP方式同步会导致中文文件名乱码,推荐用SFTP  
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz)  
-* win8 拼音输入法吞字,请使用[QQ拼音4.5](http://download.digi.tech.qq.com/soft/34/38/43255/index.shtml)要么用QQ拼音4.6的设置里高级关掉英文词语联想,或者安装第三方JDK如[Oracle JRockit](http://www.oracle.com/technology/products/jrockit)  
+* win8 拼音输入法吞字,请使用[QQ拼音4.5](http://pan.baidu.com/s/1vL2sn)提取密码：a4k3，要么用QQ拼音4.6的设置里高级关掉英文词语联想,或者安装第三方JDK如[Oracle JRockit](http://www.oracle.com/technology/products/jrockit)  
 * 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和划词翻译的勾选去掉(感谢阿安)  
 * idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)；如果这样还不能解决，请参考 [idea12 server log中文乱码解决方法](http://www.kafeitu.me/tools/2013/03/26/intellij-deal-chinese-disorderly-code.html)  
 * [IDEA下tomcat启动报错解决](https://github.com/Damao/Intellij-IDEA-F2E/wiki/IDEA-%E4%B8%8B%E5%90%AF%E5%8A%A8tomcat%E6%8A%A5%E9%94%99)  
